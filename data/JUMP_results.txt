@@ -1,0 +1,274 @@
+JUMP
+rear
+krzyżyk 5
+13 sekunda
+nie sterować by być
+dalej 0 13 dalej minuta i sekunda utworu
+minuta trzydzieści sześć
+np 5sekund do przód
+do minuta x
+negative very good
+daleko
+przesunąć w prawy
+przesunąć do przód tył o x
+przewinąć do przód
+summation 5
+np jeden piętnaście i wtedy przenosi do 1 15
+przesunąć o x sekunda
+przesunąć do czas trzy minuta 11 sekunda
+backwards
+znak dodawania
+od początek
+doh tył
+cofnąć 20 sekunda
+on to 1 30 on thirty
+krzyżyk very good
+do tył o x
+do przód do tył o x sekunda
+częściowy postęp na przykład od połowa utwór albo od początek
+przejdź do np jeden trzydzieści 1 30
+addition 5
+komenda przewijać w przód tył
+daleko 0 13 daleko minuta i sekunda utwór
+przytrzymać kropkę i przesuwać jak suwak
+do przodu do tylu tutaj dalej wstecz
+s
+przeciągając kropkę
+przewinić
+do przód o
+przesunąć x sekunda do przód wstecz
+do przodu do tyłu o x sekund
+przewin 15 sekund do przodu
+10 sekund tył
+przewlekać kropka
+przejdź do sekundy
+on advance
+n sekund do tyłu do przodu
+5 sekund przód
+przesuń x sekund do przodu wstecz
+raus
+w przód
+ut tył
+do tył
+on further
+babka
+plus do przodu15 sekund
+przesunąć do trzy dwadzieścia
+iść do minuta utwór
+plus ilość sekunda
+na przykład o 5 sekunda mówić w przód i przesuwać ty o 5 sekunda w przód
+znak dodawania very good
+przesuń do przodu tyłu o x
+less
+przewinić do połowa koniec
+zbędne przy sterowaniu głosowym
+jak klawisz strzałki na youtube oprócz tego polecenia konkretnego momentu od połowy
+przejść do sekunda
+przeciągałabym kropkę
+plus 5 sekunda
+przewinić o na przykład 5 sekunda
+perform przód
+przesuń w lewo
+od zero
+przesunąć daleko
+od zera
+naciskając tam gdzie chce aby byl
+słownie przewina
+w przód o x sekunda
+iść do zero trzynaście
+perform tył
+przesuń do trzy dwadzieścia
+positive very good
+cofnij o ileś sekund
+idź do minuta utworu
+hmmm nie przychodzić ja nic do głowa
+cofnąć
+siup lub siuuuup zależeć od to jak bardzo
+addition
+przewiń o x sekund lub przewiń do x utworu
+znak odejmowania 5
+grać od x sekunda daleko wstecz
+przód
+przewinić puścić
+10 sekunda tyć
+od początku
+przesuń dalej
+dwa trzydzieści siedem 2min 37sek
+przewinąć minuta sekunda
+dodawanie 10
+cofnąć do xx
+summation
+zmierzać
+go to plus x beggining minus x
+przeskoczyć do x minuta
+cofnąć o ileś sekunda
+execute przód
+do tył o
+mmmmmmm
+odtwarzaj od x
+w przód o x sekund
+on boost
+cofnij
+do tyłu
+rearwards
+przewiń na minutę x
+n sekunda do tył do przód
+mówiłabym czas
+przewin do przodu do tyłu
+dodawanie 5
+puścić podać sekunda minuta
+przesuń o x sekund
+dodawanie
+rearward
+idk
+znak odejmowania very good
+przewiń do przodu
+siup lub siuuup jak dluzej
+częściowy postęp np od połowy utworu albo od początku
+przeskocz do x minuty
+znak dodawania 10
+przewinić na początek
+tył
+trzy jeden dwa dla 3 12
+plus 10
+13 s
+przewinić wypuścić
+przesuwajac go
+w tył odpowiadać stały przesunięcie
+on encourage
+przyśpiesz odtwarzaj od 20s
+backward
+drugi koncept
+positive 5
+go further
+przewiń do połowy końca
+odejmowanie 5
+plus 5
+do tyłu wstecz
+odejmowanie very good
+sekunda
+przeciągać kropka
+daleko o x sekunda
+przewiń do czas
+do tył wstecz
+plus
+plus 5 sekund
+jak klawisz strzałka na youtube oprócz ten polecenie konkretny moment od połowa
+zbędny przy sterowanie głosowy
+on promote
+execute tył
+przewiń o czas do przód tył
+znak dodawania 5
+forth
+do przód do tyle tutaj daleko wstecz
+puść podanie sekundy minuty
+przewinić o x sekunda lub przewinąć do x utwór
+podawać minuta i sekunda utwór
+siup lub siuuuuup jak długo
+do minuty x
+go to min sec
+dalej
+zero pięć siedem dla 0 57
+do przód o x
+np o 5 sekund mówisz w przód i przesuwa ci o 5 sekund w przód
+addition very good
+od minuta dwadzieścia
+back
+komenda przewijaj w przód tył
+siup lub siuuuuup jak dłużej
+odtwarzać od x
+do przodu o x
+summation very good
+przesuwać by być biały kropka
+drugi minuta
+idź do zero trzynaście
+ut przód
+do tyłu o
+on to Min sec
+siup lub siuuuup zalezy jak długo
+minus 10
+13 sekund
+przewinąć o ileś sekunda
+nie sterowałbym
+np jeden piętnaście i wtedy przenosić do 1 15
+przeciągać by być kropka
+przewina 15 sekunda do przód
+przewina do przód do tył
+minus very good
+przewiń o ileś sekund
+przesuń do czas trzy minuty 11 sekund
+przesuwajac on
+podążać
+10 sekunda do przód
+przewinić o czas do przód tyć
+negative 5
+odejmowanie 10
+doh przód
+do których prawdopodobnie często się cofam bądź do którego przewijam i zastosowałabym jakąś komendę głosową do poruszania się do najbliższego w tył bądź do przodu miejsca
+cofnij 20 sekund
+słownie przewin
+iść
+onward
+przewiń puść
+przewinić do xx sekunda
+wcześnie oznaczyć by być kilka moment w utwór
+go to 1 30 one thirty
+minus 5
+np 5sekund do przodu
+plus ilość sekund
+przewiń na
+addition 10
+summation 10
+more
+use exact minutes seconds
+przewiń o np 5 sekund
+przesuwałbym białą kropkę
+wcześniej oznaczyłabym kilka momentów w utworze
+przewiń
+positive
+przewiń na początek
+hmmm nie przychodzi mi nic do głowy
+przewinąć na
+babcia
+plus do przodu15 sekunda
+forward
+do który prawdopodobnie często się cofać bądź do który przewijać i zastosować by być jakiś komenda głosowy do poruszać się do bliski w tył bądź do przód miejsce
+przejść do np jeden trzydzieści 1 30
+przewinić do czas
+liczba sekund wstecz na przód
+mówić by być czas
+liczba sekunda wstecz na przód
+krzyżyk
+przewinąć na minuta x
+podając minutę i sekundę utworu
+przewiń minuta sekunda
+przesuń w prawo
+cofnij do xx
+siup lub siuuuup zależy od tego jak bardzo
+przesunąć w lewy
+nic nie mogę wymyślić
+do przodu o
+przyśpieszyć odtwarzać od 20s
+on to plus x beggining minus x
+jump to 0 13
+nic nie móc wymyślić
+graj od x sekund dalej wstecz
+plus very good
+znak odejmowania 10
+przewiń do xx sekundy
+tyć
+w tył odpowiada stałemu przesunięciu
+negative 10
+do przodu
+do tyłu o x
+10 sekund do przodu
+krzyżyk 10
+5 sekunda przód
+druga minuta
+naciskać tam gdzie chcieć aby byl
+do przód
+przytrzymać kropka i przesuwać jak suwak
+dalej o x sekund
+idź
+dodawanie very good
+positive 10

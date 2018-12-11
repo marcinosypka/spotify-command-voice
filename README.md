@@ -16,3 +16,4 @@ To capture audio stream on desktop open VLC media player, go to:
 Media->Open Network Stream 
   
 and enter stream url. Don't forget to select show more options and set caching to 1ms. Now you can use software like AudioRecorder to record audio from vlc.
+

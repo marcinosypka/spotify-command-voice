@@ -1,0 +1,465 @@
+VOLUME UP
+lauder
+wrzeszcz
+ściszyć
+glosnosc
+give up
+bardzo głośno
+za cicho
+zgłośnij
+up
+głośno
+maks
+głośność na maks
+głośność na maksa
+pogłośnić
+głośnej
+wysoko
+loud
+podgłośnij
+podgłośnić
+zgłośnić
+głośność
+podglos
+plus
+głośniej
+podglosnij
+głośny
+pogłośnij
+głos plus
+glośniej
+przygłośnij
+podgłośń
+więcej mocy
+max
+down
+podgłość
+wyżej
+przycisz
+przyglos
+przyciszyć
+więcej moc
+odcisz
+głosniej
+glosniej
+louder
+volume up
+summation
+BACK
+rear
+previous song
+były piosenka
+cofnij piosenke
+cofnąć
+do tyłu
+od początku
+wcześniejsza
+przewiń do tyłu
+poprzednia do tylu
+do tylu
+lewo
+uprzedni piosenka
+poprzedni
+poprzednia piosenka
+w tył
+od początek
+uprzednia
+wcześniejszy utwór
+przewinąć do tył
+wróć do poprzedniego utworu
+utwór
+wstecz
+play previous song
+uprzedni
+wcześniej
+back
+do tyle
+backwards
+wcześniejszy twór
+wróć
+wrócić do poprzedni utwór
+wrócić
+poprzednie
+przewinąć w tył
+do tył
+backward
+cofnąć piosenke
+previous
+rearward
+wcześniejszy piosenka
+powrócić
+poprzednia
+cofnąć do tyle
+jeszcze raz
+poprzedni utwór
+uprzedni utwór
+poprzedni piosenka
+wcześniejszy
+poprzedni twór
+cofnij
+poprzedni previous
+były utwór
+LOOP
+petla
+krąg
+losowy
+zapętlać
+powtórz
+odtwarzaj w kółko
+w koło
+powtorzenie utworow
+zaplątywać
+drugi raz
+powtarzaj całość utwór
+włącz powtarzanie
+otwarzaj w pętli
+zapętlenie
+losowa
+w pętla
+odtwarzanie w kółko
+zapętlij
+w kółko
+replicate
+pętel
+instant replay
+zapętlić lista
+włączyć powtarzać
+odtwarzać w pętla
+double
+otwarzaj w pętla
+repeat
+koło
+od nowy
+ciągiam
+loop
+powtorz
+powtarzać
+odtwarzanie w pętla
+zapętlić
+w krąg
+once again
+grono
+odtwarzaj w pętli
+grać w pętla
+w pętli
+zasupłać lista
+zapętl
+powtarzanie
+pętla
+nie przerywaj
+powtarzać całość utwór
+nie przerywać
+powtarzaj
+jeszcze raz
+lista
+replay
+powtórzyć
+looping
+odtwarzanie w pętli
+zapętl listę
+zapętlaj
+NEXT
+następne
+następna piosenka
+przyszły piosenka
+następny utwór
+naprzód
+przyszły
+przewinąć
+kolejny twór
+przewiń
+next
+adjacent
+pominąć twór
+do przód
+kolejna
+przewinić
+nowy utwór
+opuścić
+pomiń utwór
+pominąć utwór
+pomiń piosenkę
+przód
+kolejny utwór
+daleko
+kolejny
+kolejna nastepna
+volume down
+następny do przód
+forth
+nastepna
+onward
+następny piosenka
+opuścić utwór
+prawo
+następny twór
+następny pauza
+w przód
+następna
+przyszły utwór
+opuścić twór
+do przodu
+cut song
+play next song
+side by side song
+nowy
+pomiń
+następna do przodu
+play again
+ein blitzkrieg schnela
+opuścić piosenka
+adjacent song
+pominąć
+przewiń do przodu
+nastepna piosenka
+nowa
+next song
+pominąć piosenka
+głupi
+przód
+side by side
+omission
+dalej
+nowy pauza
+forward
+następny
+przewinić do przód
+nowy piosenka
+skip song
+kolejny piosenka
+scisz
+STOP
+hold
+enough
+quit music
+zapauzuj
+przestać grać
+lay off
+czekać
+pause euphony
+przerwij
+give up
+zatrzymać odtwarzanie
+pause
+zahamować
+stop pauza
+luka
+zatrzymaj na chwilę
+zahamuj
+przerwa
+powstrzymać
+pauza utwór
+pause music
+koniec
+kres
+quit
+stop music
+give up music
+wyhamować
+intermit
+wait
+break euphony
+intermit music
+stoppen bitte
+czekaj
+cease
+zatrzymać
+stoppage euphony
+spauzować
+odtwarzaj
+take hold
+powstrzymać odtwarzanie
+discontinue
+wstrzymaj odtwarzanie
+wyłączyć
+wyłącz
+waiting
+ustać grać
+break
+hold back
+cease music
+discontinue music
+break music
+przerwać
+przestać
+przestawać
+koniec
+kończyć
+przestań grać
+pauza utworu
+wstrzymać odtwarzanie
+hold stop
+zatrzymać na chwila
+quit euphony
+hold off
+halt
+stoppage
+spauzuj
+pauza
+zatrzymaj
+wstrzymaj
+stop
+odtwarzać
+wstrzymać
+START
+lead off play
+zacznij
+beginning play
+rozpocznij
+zacząć
+muzyka
+kickoff
+napocząć
+wznowa
+grać
+ruszaj
+rozpocząć
+beginning euphony
+dawaj
+start graj
+muzyken mahen
+beginning music
+beginning
+grać play
+start music
+wznów
+muza
+commence play
+zagraj
+odtwarzaj
+commencement
+graj play
+power
+start euphony
+offset
+dalej
+włącz
+ruszać
+odtwarzać
+graj
+commence music
+kickoff euphony
+on
+puścić
+rozpocząć
+starting time
+starting time play
+outset euphony
+play
+puść
+begin
+kontynuować
+rozpocząć odtwarzanie
+wzów
+first music
+wypuścić
+odtworzyć
+commencement euphony
+odtwórz
+dawać
+plej
+start
+włącz muzykę
+begin music
+commencement music
+rozpocznij odtwarzanie
+commence euphony
+offset play
+starting time music
+begin play
+go
+showtime play
+begin euphony
+start play
+kickoff music
+commence
+włączyć muzyka
+kontynuuj
+włączyć
+zagrać
+kickoff play
+outset
+play grać
+SHUFFLE
+petla
+mieszać
+odtwarzanie losowy
+losowy
+random
+losowy wybor utworow
+krzyżować
+graj losowo
+losowo
+pomylić
+móc się powtarzać
+mix
+plątać
+zaskocz mnie
+mixture
+cross
+na przemian
+rand
+mogą się powtarzać
+mieszaj
+zaskoczyć świadomość
+powtarzać
+shuffle
+świderek
+rekonstruowanie losowy
+krzyżuj
+odblokować się ja
+wyłącz losowe odtwarzanie
+pomieszać
+losuj z listy
+odtworzyć losowo
+losować
+kros
+odtwarzaj losowo
+losować z lista
+odtwarzanie losowe
+mix zmylić
+zmylić
+odtwarzać losowo
+shuffling
+mylić
+losowy wybór
+pomieszaj
+wymieszaj
+wymieszać
+naprzemian
+odtwórz losowo
+losowy odtwarzanie
+zaskocz
+losowe odtwarzanie
+wyłączyć losowy odtwarzanie
+losuj
+shuffle on
+poplątać
+grać losowo
+VOLUME DOWN
+cichutko
+za głośno
+ściszyć
+ciszej
+w dół
+quieter
+milcz
+wyciszenie
+wyciszyć
+to ścisz
+volume down
+min
+mute
+quiet
+cichość
+cicho
+silent
+down
+przycisz
+zamilcz
+softer
+cisza
+wycisz
+minus
+scisz
+całkowite wyciszenie
