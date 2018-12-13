@@ -24,3 +24,9 @@ class SpotifyWithPlayer(Spotify):
 
     def current_user_next(self):
         return self._post("me/player/next")
+
+    def current_user_shuffle(self, shuffle):
+        return self._put("me/player/shuffle?state={}".format(shuffle))
+
+    def current_user_repeat(self, repeat):
+        return self._put("me/player/repeat?state={}".format(repeat))
