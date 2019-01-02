@@ -1,7 +1,9 @@
 import spotipy.util as util
 
 from SpotifyWithPlayer import SpotifyWithPlayer
+from data.data_utils import normalize_sentence
 from data.pattern import get_commands
+from numerals.numerals_evaluator import NumeralsNormalizer, NumeralsTransformer
 
 scope = 'user-modify-playback-state user-read-currently-playing user-read-playback-state'
 username = '26yuotyu35tiipythyrrs7jox04v5'
@@ -12,5 +14,13 @@ token = util.prompt_for_user_token(username, scope, client_id, client_secret, re
 
 sp = SpotifyWithPlayer(auth=token)
 
-sentence = r'wróć do poprzedniego, daj następny, stop'
-print(get_commands(sentence, 'data/updated_results_manual.txt'))
+
+sentence = r'wróć do poprzedniego, daj następny, jedenaście stop, przesuń na , idź do jeden koma dwadzieścia, przejdź ' \
+           r'do trzy kropka trzynaście , przewiń na dwa dwukropek dwadzieścia cztery'
+
+normalized_sentence = normalize_sentence(sentence)
+numerals_normalizer = NumeralsNormalizer('numerals/numerals.txt')
+transformer = NumeralsTransformer(numerals_normalizer)
+normalized_numerals_sentence = transformer.replace_with_numbers(normalized_sentence)
+
+get_commands(normalized_numerals_sentence, 'data/updated_results_manual.txt', debug=True)

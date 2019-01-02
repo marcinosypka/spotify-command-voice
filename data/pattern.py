@@ -1,6 +1,5 @@
 import re
 
-from data.data_utils import lematise_sentence
 from data.manual_data import get_updated_data
 
 
@@ -19,18 +18,44 @@ def create_regex_from_data(filename):
         pattern += group_pattern + '|'
 
     pattern = pattern[:-1]
+    pattern += r'|(?P<TIME>\d+:\d+)'
+    commands_set.add('TIME')
+
     return re.compile(pattern, re.IGNORECASE), commands_set
 
 
-def get_commands(sentence, filename):
+def process_result(commands):
+    result = []
+    for i in range(len(commands) - 1):
+        if commands[i][0] == 'JUMP' and commands[i + 1][0] == 'TIME':
+            result.append((commands[i][0], commands[i + 1][1]))
+        elif commands[i][0] == 'JUMP' or commands[i][0] == 'TIME':
+            continue
+        else:
+            result.append((commands[i][0], None))
+
+    return result
+
+
+def get_commands(sentence, filename, debug=False):
     compiled_pattern, commands = create_regex_from_data(filename)
     result_commands = []
-    for match in compiled_pattern.finditer(lematise_sentence(sentence)):
+
+    if debug:
+        print(sentence, '\n')
+    for match in compiled_pattern.finditer(sentence):
+        if debug:
+            print(match)
         for command in commands:
             if match.group(command):
-                result_commands.append(command)
-    return result_commands
+                result_commands.append((command, match.group(command)))
+
+    result = process_result(result_commands)
+    if debug:
+        print('\n', result)
+
+    return result
 
 
 if __name__ == '__main__':
-    print(get_commands(r'wróć, daj następny, stop', 'updated_results_manual.txt'))
+    print(get_commands(r'wróć, daj następny, stop, przewiń na 2:21', 'updated_results_manual.txt'))
