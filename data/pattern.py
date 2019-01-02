@@ -28,7 +28,10 @@ def process_result(commands):
     result = []
     for i in range(len(commands) - 1):
         if commands[i][0] == 'JUMP' and commands[i + 1][0] == 'TIME':
-            result.append((commands[i][0], commands[i + 1][1]))
+            time = commands[i + 1][1][:4]
+            if len(time) == 3:
+                time = time[:2] + '0' + time[2:]
+            result.append((commands[i][0], time))
         elif commands[i][0] == 'JUMP' or commands[i][0] == 'TIME':
             continue
         else:

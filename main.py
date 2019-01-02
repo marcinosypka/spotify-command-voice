@@ -16,7 +16,8 @@ sp = SpotifyWithPlayer(auth=token)
 
 
 sentence = r'wróć do poprzedniego, daj następny, jedenaście stop, przesuń na , idź do jeden koma dwadzieścia, przejdź ' \
-           r'do trzy kropka trzynaście , przewiń na dwa dwukropek dwadzieścia cztery'
+           r'do trzy kropka trzynaście , przewiń na dwa dwukropek sto dwadzieścia cztery, przewiń na dwa dwukropek ' \
+           r'cztery, przejdź do cztery kropka zero'
 
 normalized_sentence = normalize_sentence(sentence)
 numerals_normalizer = NumeralsNormalizer('numerals/numerals.txt')
