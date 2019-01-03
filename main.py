@@ -1,6 +1,6 @@
-import spotipy.util as util
+# import spotipy.util as util
 
-from SpotifyWithPlayer import SpotifyWithPlayer
+# from SpotifyWithPlayer import SpotifyWithPlayer
 from data.data_utils import normalize_sentence
 from data.pattern import get_commands
 from numerals.numerals_evaluator import NumeralsNormalizer, NumeralsTransformer
@@ -10,9 +10,9 @@ username = '26yuotyu35tiipythyrrs7jox04v5'
 client_id = '9c862d0167b04dcd9ae3de8fc25d509b'
 client_secret = '6a7729412eb442b794b5ce623beca996'
 redirect_uri = 'http://localhost.com'
-token = util.prompt_for_user_token(username, scope, client_id, client_secret, redirect_uri)
+# token = util.prompt_for_user_token(username, scope, client_id, client_secret, redirect_uri)
 
-sp = SpotifyWithPlayer(auth=token)
+# sp = SpotifyWithPlayer(auth=token)
 
 
 sentence = r'wróć do poprzedniego, daj następny, jedenaście stop, przesuń na , idź do jeden koma dwadzieścia, przejdź ' \
