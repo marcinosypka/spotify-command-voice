@@ -9,13 +9,27 @@ import itertools
 from wordnet.wordnet_api import get_word_senses, get_synsets_for_senses, get_synonyms
 
 
+class Normalizer:
+
+    def __init__(self, filename):
+        self._numerals = {}
+        with open(filename) as file:
+            for line in file:
+                forms = line.split(";")
+                self._numerals[forms[1]] = forms[0]
+        print("Normalizer created.")
+
+    def normalize_sentence(self, text):
+        return " ".join([self._numerals.get(x, x) for x in text.split()])
+
+
 def send_request(content):
     headers = {'Content-type': 'application/json'}
     url = 'http://localhost:9200/'
     return requests.post(url, data=content.encode('utf-8'), headers=headers)
 
 
-def lematise_sentence(occurrence):
+def normalize_sentence(occurrence):
     content = send_request(occurrence).content.decode("utf-8")
     tokens = [token.split('\t') for token in content.split('\n')]
     tokens = [token_list for token_list in tokens if len(token_list) > 1]
@@ -63,7 +77,7 @@ if __name__ == '__main__':
             options = list()
             lematised_options = list()
             for occ, _ in occurrences:
-                lematised = lematise_sentence(occ)
+                lematised = normalize_sentence(occ)
                 # we remember both original and lematised version
                 options.append(occ)
                 options.append(lematised)

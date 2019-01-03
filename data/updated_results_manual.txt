@@ -165,15 +165,12 @@ przyszły piosenka
 następny utwór
 naprzód
 przyszły
-przewinąć
 kolejny twór
-przewiń
 next
 adjacent
 pominąć twór
 do przód
 kolejna
-przewinić
 nowy utwór
 opuścić
 pomiń utwór
@@ -463,3 +460,33 @@ wycisz
 minus
 scisz
 całkowite wyciszenie
+JUMP
+przesunąć do
+przesunć
+przejść do
+przejść
+przesuń do
+przejdź do
+przesuń
+przejdź
+odtwarzaj od
+przewinić na
+przewinić
+puść
+puść od
+go to
+przewiń
+przewiń na
+przewinąć na
+przejść do
+przewinąc do
+przewinąć na
+przewinąć
+przewiń
+przesuń na
+jump to
+graj od
+idź
+idź do
+iść do
+iść
